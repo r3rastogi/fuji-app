@@ -1,7 +1,7 @@
 /*jslint nomen: true */
 var request = require('request'),
     vm = require('vm'),
-    token = '46081a02eaa5123f97df07d28660db30',
+    token = 'c653ec32db784f4b3207d3ba48b58b2c',
     tag = 'taj mahal';
 
 function jsonFlickrApi(data) {
