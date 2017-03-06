@@ -2,7 +2,7 @@
 var request = require('request'),
     vm = require('vm'),
     token = '46081a02eaa5123f97df07d28660db30',
-    tag = 'mount fuji';
+    tag = 'taj mahal';
 
 function jsonFlickrApi(data) {
     return data.photos.photo;
