@@ -2,7 +2,7 @@
 var request = require('request'),
     vm = require('vm'),
     token = 'c653ec32db784f4b3207d3ba48b58b2c',
-    tag = 'monterey bay aquarium';
+    tag = 'mount fuji';
 
 function jsonFlickrApi(data) {
     return data.photos.photo;
